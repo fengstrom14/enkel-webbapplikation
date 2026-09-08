@@ -1,4 +1,4 @@
 function myFunction()
 {
-    document.getElementById("myHeading").innerHTML = "Goodbye, World!";
+    document.getElementById("myHeading").innerHTML = "Goodbye World";
 }
